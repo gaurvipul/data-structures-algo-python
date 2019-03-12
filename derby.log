@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Mar 11 21:26:11 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0169-6d77-f167-0000054c8fd0 
+on database directory /home/vipul/data-str-algo/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@5366227e 
+Loaded from file:/home/vipul/pixiedust/bin/spark/spark-2.2.0-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-8u191-b12-0ubuntu0.16.04.1-b12
+user.dir=/home/vipul/data-str-algo
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-43-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
